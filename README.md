@@ -4,7 +4,9 @@ I’m currently studing on CEV Barcelona. I’m currently learning Animation and
 
  How to reach me: yago_ayala_b-ts3dv1ma2122@cev.com
  
- Some of my works: https://yagoayalaguerra7.artstation.com/
+ Some of my works:
+ 
+ [![Artstation](https://img.shields.io/badge/Artstation-@silayastudios-0590DB?style=for-the-badge&logo=artstation&logoColor=white&labelColor=000000)](https://www.artstation.com/yagoayalaguerra7)
  
  And a final project acount: 
 
