@@ -6,6 +6,6 @@ I’m currently studing on CEV Barcelona. I’m currently learning Animation and
  
  Some of my works: https://yagoayalaguerra7.artstation.com/
  
- And a final project acount:
+ And a final project acount: https://www.instagram.com/silayastudios/?hl=es
  
  
