@@ -6,7 +6,7 @@ I’m currently studing on CEV Barcelona. I’m currently learning Animation and
  
  Some of my works: https://yagoayalaguerra7.artstation.com/
  
- And a final project acount: https://www.instagram.com/silayastudios/?hl=es
+ And a final project acount: [![Instagram](https://img.shields.io/badge/Instagram-@silayastudios-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/silayastudios/?hl=es)
  
  I manage these programs:
  
