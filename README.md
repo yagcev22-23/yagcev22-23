@@ -13,7 +13,6 @@ I’m currently studing on CEV Barcelona. I’m currently learning Animation and
  I manage these programs:
  
 Image editing: Photoshop & Illustrator.
-[(https://img.shields.io/badge/-FF9300?style=for-the-badge&logo=Adobe Illustrator&logoColor=white&labelColor=FF9300)]
                                         
 Video edition: Premiere Pro & After Effects.
 
