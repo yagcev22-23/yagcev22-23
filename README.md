@@ -16,7 +16,7 @@ I’m currently studing on CEV Barcelona. I’m currently learning Animation and
  
 Image editing: Photoshop & Illustrator.
 
-![Photoshop]([https://img.shields.io/badge/Artstation-@silayastudios-0590DB?style=for-the-badge&logo=artstation&logoColor=blue&labelColor=000000](https://simpleicons.org/icons/adobephotoshop.svg)
+![Photoshop](file:///D:/Descargas/adobephotoshop.svg)
                                         
 Video edition: Premiere Pro & After Effects.
 
