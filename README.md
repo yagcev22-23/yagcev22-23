@@ -8,4 +8,18 @@ I’m currently studing on CEV Barcelona. I’m currently learning Animation and
  
  And a final project acount: https://www.instagram.com/silayastudios/?hl=es
  
+ I manage these programs: Image editing
+                                        - Photoshop
+                                        - Illustrator
+                          Video edition
+                                        - Premiere Pro
+                                        - After Effects
+                              Modeling
+                                        - Zbrush
+                                        - 3D Max
+                                        - Maya
+                                Audio
+                                        - Audition
+                                        - Audacity
+                                        - Ableton
  
